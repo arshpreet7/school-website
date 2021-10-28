@@ -1,0 +1,21 @@
+.link {
+    float: right;
+    color: aqua;
+    padding-right: 9px;    
+    font-family: fantasy;
+    font-size: 20px float: right;
+    padding-left: 9px;     
+    font-size: 20px; 
+}
+#campus_life{
+    width: 550px;
+    height: 350px;
+}
+#whatisnew{
+    width: 550px;
+    height: 350px;
+}
+#aumni{
+    width: 550px;
+    height: 350px;
+}
